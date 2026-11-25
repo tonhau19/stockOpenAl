@@ -1,0 +1,19 @@
+
+> ai-stock-hunter-vn@2.0.0-alpha.1 demo
+> node src/index.js --demo --once
+
+2026-11-25T15:24:20.790Z 🧪 DEMO – KHÔNG PHẢI DỮ LIỆU THẬT | 2026-11-25T09:30:10+07:00
+VNINDEX 1516.04 (0.4%) | UPTREND_STRONG
+GT khớp: 3100.0 tỷ | NN: -210.0 tỷ | Thỏa thuận: 240.0 tỷ | RVOL TT: 1.08
+Quét 131/131 | breadth 81.7% | NAV sổ tay 60.00tr
+NO_TRADE – không có đề xuất mua đủ điều kiện
+Gate: DEMO, FEED_NOT_REALTIME_FINAL, CALENDAR_UNVERIFIED, FEES_UNVERIFIED, STRATEGY_UNVALIDATED
+THEO DÕI
+SĂN ĐÁY – chưa phải mua
+TRÁNH MUA
+VCB: D/W giảm
+VPB: D/W giảm
+TPB: D/W giảm
+EIB: D/W giảm
+SSI: D/W giảm
+TP chỉ là vùng cung tham chiếu; SL không bảo đảm khớp. Kiểm tra dữ liệu và giá trước giao dịch.

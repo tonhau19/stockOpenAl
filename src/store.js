@@ -1,0 +1,3 @@
+import {readFileSync,writeFileSync,renameSync,mkdirSync,existsSync,appendFileSync} from 'node:fs';import {dirname} from 'node:path';
+export const initial=()=>({cash:60000000,positions:[],bottom:{},regime:'UNKNOWN',offset:0,slots:{},sent:{},outbox:[],peak:60000000,marks:{},paused:false});
+export class Store{constructor(path){this.path=path;this.state=existsSync(path)?JSON.parse(readFileSync(path,'utf8')):initial();}save(){mkdirSync(dirname(this.path),{recursive:true});writeFileSync(this.path+'.tmp',JSON.stringify(this.state,null,2),{mode:0o600});renameSync(this.path+'.tmp',this.path);}audit(event){mkdirSync(dirname(this.path),{recursive:true});appendFileSync(this.path+'.audit.jsonl',JSON.stringify(event)+'\n',{mode:0o600});}}

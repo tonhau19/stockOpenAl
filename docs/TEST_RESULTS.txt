@@ -1,0 +1,146 @@
+
+> ai-stock-hunter-vn@2.0.0-alpha.1 test
+> node --test
+
+TAP version 13
+# Subtest: 131 unique seed symbols
+ok 1 - 131 unique seed symbols
+  ---
+  duration_ms: 1.446111
+  type: 'test'
+  ...
+# Subtest: demo scans 131 symbols but cannot buy
+ok 2 - demo scans 131 symbols but cannot buy
+  ---
+  duration_ms: 473.679843
+  type: 'test'
+  ...
+# Subtest: future snapshot rejected
+ok 3 - future snapshot rejected
+  ---
+  duration_ms: 89.532492
+  type: 'test'
+  ...
+# Subtest: stale snapshot blocks new entries
+ok 4 - stale snapshot blocks new entries
+  ---
+  duration_ms: 375.923545
+  type: 'test'
+  ...
+# Subtest: missing coverage fails closed
+ok 5 - missing coverage fails closed
+  ---
+  duration_ms: 81.862424
+  type: 'test'
+  ...
+# Subtest: bar invariants: partial, impossible and future bars rejected
+ok 6 - bar invariants: partial, impossible and future bars rejected
+  ---
+  duration_ms: 0.300454
+  type: 'test'
+  ...
+# Subtest: wick + CLV correct
+ok 7 - wick + CLV correct
+  ---
+  duration_ms: 0.132589
+  type: 'test'
+  ...
+# Subtest: same-slot RVOL uses prior sessions only
+ok 8 - same-slot RVOL uses prior sessions only
+  ---
+  duration_ms: 82.463065
+  type: 'test'
+  ...
+# Subtest: T+2 skips weekend and custom holiday
+ok 9 - T+2 skips weekend and custom holiday
+  ---
+  duration_ms: 0.647865
+  type: 'test'
+  ...
+# Subtest: no entry lunch/ATC; main slot after close
+ok 10 - no entry lunch/ATC; main slot after close
+  ---
+  duration_ms: 1.11573
+  type: 'test'
+  ...
+# Subtest: locked shares cannot be confirmed or sold early
+ok 11 - locked shares cannot be confirmed or sold early
+  ---
+  duration_ms: 0.877742
+  type: 'test'
+  ...
+# Subtest: stop hit latched even after price recovery; then eligible exit
+ok 12 - stop hit latched even after price recovery; then eligible exit
+  ---
+  duration_ms: 0.56185
+  type: 'test'
+  ...
+# Subtest: no assumed fill if no sellable bid
+ok 13 - no assumed fill if no sellable bid
+  ---
+  duration_ms: 0.313411
+  type: 'test'
+  ...
+# Subtest: sale proceeds locked until manual confirmation
+ok 14 - sale proceeds locked until manual confirmation
+  ---
+  duration_ms: 0.415716
+  type: 'test'
+  ...
+# Subtest: invalid stop and odd lot blocked
+ok 15 - invalid stop and odd lot blocked
+  ---
+  duration_ms: 0.132512
+  type: 'test'
+  ...
+# Subtest: risk allocation respects shared stress and sector budget
+ok 16 - risk allocation respects shared stress and sector budget
+  ---
+  duration_ms: 0.928712
+  type: 'test'
+  ...
+# Subtest: stale holding marks freeze entry
+ok 17 - stale holding marks freeze entry
+  ---
+  duration_ms: 0.42948
+  type: 'test'
+  ...
+# Subtest: tick sizes and no chasing
+ok 18 - tick sizes and no chasing
+  ---
+  duration_ms: 0.221893
+  type: 'test'
+  ...
+# Subtest: bottom watch never confirms on repeated bar
+ok 19 - bottom watch never confirms on repeated bar
+  ---
+  duration_ms: 0.610335
+  type: 'test'
+  ...
+# Subtest: persistent state and audit file
+ok 20 - persistent state and audit file
+  ---
+  duration_ms: 3.326962
+  type: 'test'
+  ...
+# Subtest: Telegram chunks fit plain text limit
+ok 21 - Telegram chunks fit plain text limit
+  ---
+  duration_ms: 0.187292
+  type: 'test'
+  ...
+# Subtest: replay rejects out-of-order timestamps
+ok 22 - replay rejects out-of-order timestamps
+  ---
+  duration_ms: 367.633544
+  type: 'test'
+  ...
+1..22
+# tests 22
+# suites 0
+# pass 22
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 1612.467307

@@ -1,0 +1,526 @@
+[
+  {
+    "symbol": "VCB",
+    "sector": "Ngân hàng"
+  },
+  {
+    "symbol": "BID",
+    "sector": "Ngân hàng"
+  },
+  {
+    "symbol": "CTG",
+    "sector": "Ngân hàng"
+  },
+  {
+    "symbol": "TCB",
+    "sector": "Ngân hàng"
+  },
+  {
+    "symbol": "MBB",
+    "sector": "Ngân hàng"
+  },
+  {
+    "symbol": "VPB",
+    "sector": "Ngân hàng"
+  },
+  {
+    "symbol": "ACB",
+    "sector": "Ngân hàng"
+  },
+  {
+    "symbol": "STB",
+    "sector": "Ngân hàng"
+  },
+  {
+    "symbol": "HDB",
+    "sector": "Ngân hàng"
+  },
+  {
+    "symbol": "VIB",
+    "sector": "Ngân hàng"
+  },
+  {
+    "symbol": "TPB",
+    "sector": "Ngân hàng"
+  },
+  {
+    "symbol": "SHB",
+    "sector": "Ngân hàng"
+  },
+  {
+    "symbol": "LPB",
+    "sector": "Ngân hàng"
+  },
+  {
+    "symbol": "OCB",
+    "sector": "Ngân hàng"
+  },
+  {
+    "symbol": "MSB",
+    "sector": "Ngân hàng"
+  },
+  {
+    "symbol": "EIB",
+    "sector": "Ngân hàng"
+  },
+  {
+    "symbol": "SSB",
+    "sector": "Ngân hàng"
+  },
+  {
+    "symbol": "NAB",
+    "sector": "Ngân hàng"
+  },
+  {
+    "symbol": "BAB",
+    "sector": "Ngân hàng"
+  },
+  {
+    "symbol": "BVB",
+    "sector": "Ngân hàng"
+  },
+  {
+    "symbol": "SSI",
+    "sector": "Chứng khoán"
+  },
+  {
+    "symbol": "VND",
+    "sector": "Chứng khoán"
+  },
+  {
+    "symbol": "VCI",
+    "sector": "Chứng khoán"
+  },
+  {
+    "symbol": "HCM",
+    "sector": "Chứng khoán"
+  },
+  {
+    "symbol": "SHS",
+    "sector": "Chứng khoán"
+  },
+  {
+    "symbol": "MBS",
+    "sector": "Chứng khoán"
+  },
+  {
+    "symbol": "FTS",
+    "sector": "Chứng khoán"
+  },
+  {
+    "symbol": "BSI",
+    "sector": "Chứng khoán"
+  },
+  {
+    "symbol": "CTS",
+    "sector": "Chứng khoán"
+  },
+  {
+    "symbol": "VDS",
+    "sector": "Chứng khoán"
+  },
+  {
+    "symbol": "ORS",
+    "sector": "Chứng khoán"
+  },
+  {
+    "symbol": "VIX",
+    "sector": "Chứng khoán"
+  },
+  {
+    "symbol": "TVS",
+    "sector": "Chứng khoán"
+  },
+  {
+    "symbol": "BVH",
+    "sector": "Bảo hiểm"
+  },
+  {
+    "symbol": "PVI",
+    "sector": "Bảo hiểm"
+  },
+  {
+    "symbol": "BMI",
+    "sector": "Bảo hiểm"
+  },
+  {
+    "symbol": "MIG",
+    "sector": "Bảo hiểm"
+  },
+  {
+    "symbol": "VIC",
+    "sector": "BĐS nhà ở / thương mại"
+  },
+  {
+    "symbol": "VHM",
+    "sector": "BĐS nhà ở / thương mại"
+  },
+  {
+    "symbol": "VRE",
+    "sector": "BĐS nhà ở / thương mại"
+  },
+  {
+    "symbol": "KDH",
+    "sector": "BĐS nhà ở / thương mại"
+  },
+  {
+    "symbol": "NLG",
+    "sector": "BĐS nhà ở / thương mại"
+  },
+  {
+    "symbol": "DXG",
+    "sector": "BĐS nhà ở / thương mại"
+  },
+  {
+    "symbol": "PDR",
+    "sector": "BĐS nhà ở / thương mại"
+  },
+  {
+    "symbol": "DIG",
+    "sector": "BĐS nhà ở / thương mại"
+  },
+  {
+    "symbol": "NVL",
+    "sector": "BĐS nhà ở / thương mại"
+  },
+  {
+    "symbol": "HDG",
+    "sector": "BĐS nhà ở / thương mại"
+  },
+  {
+    "symbol": "CEO",
+    "sector": "BĐS nhà ở / thương mại"
+  },
+  {
+    "symbol": "HDC",
+    "sector": "BĐS nhà ở / thương mại"
+  },
+  {
+    "symbol": "TCH",
+    "sector": "BĐS nhà ở / thương mại"
+  },
+  {
+    "symbol": "BCM",
+    "sector": "BĐS khu công nghiệp"
+  },
+  {
+    "symbol": "KBC",
+    "sector": "BĐS khu công nghiệp"
+  },
+  {
+    "symbol": "IDC",
+    "sector": "BĐS khu công nghiệp"
+  },
+  {
+    "symbol": "SZC",
+    "sector": "BĐS khu công nghiệp"
+  },
+  {
+    "symbol": "SIP",
+    "sector": "BĐS khu công nghiệp"
+  },
+  {
+    "symbol": "VGC",
+    "sector": "BĐS khu công nghiệp"
+  },
+  {
+    "symbol": "LHG",
+    "sector": "BĐS khu công nghiệp"
+  },
+  {
+    "symbol": "NTC",
+    "sector": "BĐS khu công nghiệp"
+  },
+  {
+    "symbol": "TIP",
+    "sector": "BĐS khu công nghiệp"
+  },
+  {
+    "symbol": "D2D",
+    "sector": "BĐS khu công nghiệp"
+  },
+  {
+    "symbol": "VNM",
+    "sector": "Thực phẩm / tiêu dùng thiết yếu"
+  },
+  {
+    "symbol": "MSN",
+    "sector": "Thực phẩm / tiêu dùng thiết yếu"
+  },
+  {
+    "symbol": "SAB",
+    "sector": "Thực phẩm / tiêu dùng thiết yếu"
+  },
+  {
+    "symbol": "QNS",
+    "sector": "Thực phẩm / tiêu dùng thiết yếu"
+  },
+  {
+    "symbol": "SBT",
+    "sector": "Thực phẩm / tiêu dùng thiết yếu"
+  },
+  {
+    "symbol": "KDC",
+    "sector": "Thực phẩm / tiêu dùng thiết yếu"
+  },
+  {
+    "symbol": "DBC",
+    "sector": "Thực phẩm / tiêu dùng thiết yếu"
+  },
+  {
+    "symbol": "MCH",
+    "sector": "Thực phẩm / tiêu dùng thiết yếu"
+  },
+  {
+    "symbol": "PAN",
+    "sector": "Thực phẩm / tiêu dùng thiết yếu"
+  },
+  {
+    "symbol": "VHC",
+    "sector": "Thực phẩm / tiêu dùng thiết yếu"
+  },
+  {
+    "symbol": "ANV",
+    "sector": "Thực phẩm / tiêu dùng thiết yếu"
+  },
+  {
+    "symbol": "FMC",
+    "sector": "Thực phẩm / tiêu dùng thiết yếu"
+  },
+  {
+    "symbol": "MWG",
+    "sector": "Bán lẻ / tiêu dùng không thiết yếu"
+  },
+  {
+    "symbol": "FRT",
+    "sector": "Bán lẻ / tiêu dùng không thiết yếu"
+  },
+  {
+    "symbol": "PNJ",
+    "sector": "Bán lẻ / tiêu dùng không thiết yếu"
+  },
+  {
+    "symbol": "DGW",
+    "sector": "Bán lẻ / tiêu dùng không thiết yếu"
+  },
+  {
+    "symbol": "PET",
+    "sector": "Bán lẻ / tiêu dùng không thiết yếu"
+  },
+  {
+    "symbol": "HAX",
+    "sector": "Bán lẻ / tiêu dùng không thiết yếu"
+  },
+  {
+    "symbol": "FPT",
+    "sector": "Công nghệ / viễn thông"
+  },
+  {
+    "symbol": "CMG",
+    "sector": "Công nghệ / viễn thông"
+  },
+  {
+    "symbol": "CTR",
+    "sector": "Công nghệ / viễn thông"
+  },
+  {
+    "symbol": "VGI",
+    "sector": "Công nghệ / viễn thông"
+  },
+  {
+    "symbol": "FOX",
+    "sector": "Công nghệ / viễn thông"
+  },
+  {
+    "symbol": "ELC",
+    "sector": "Công nghệ / viễn thông"
+  },
+  {
+    "symbol": "GAS",
+    "sector": "Dầu khí / nhiên liệu"
+  },
+  {
+    "symbol": "PLX",
+    "sector": "Dầu khí / nhiên liệu"
+  },
+  {
+    "symbol": "PVD",
+    "sector": "Dầu khí / nhiên liệu"
+  },
+  {
+    "symbol": "PVS",
+    "sector": "Dầu khí / nhiên liệu"
+  },
+  {
+    "symbol": "BSR",
+    "sector": "Dầu khí / nhiên liệu"
+  },
+  {
+    "symbol": "PVT",
+    "sector": "Dầu khí / nhiên liệu"
+  },
+  {
+    "symbol": "PVB",
+    "sector": "Dầu khí / nhiên liệu"
+  },
+  {
+    "symbol": "PVC",
+    "sector": "Dầu khí / nhiên liệu"
+  },
+  {
+    "symbol": "GMD",
+    "sector": "Cảng biển / logistics"
+  },
+  {
+    "symbol": "HAH",
+    "sector": "Cảng biển / logistics"
+  },
+  {
+    "symbol": "VSC",
+    "sector": "Cảng biển / logistics"
+  },
+  {
+    "symbol": "SGP",
+    "sector": "Cảng biển / logistics"
+  },
+  {
+    "symbol": "VOS",
+    "sector": "Cảng biển / logistics"
+  },
+  {
+    "symbol": "VTO",
+    "sector": "Cảng biển / logistics"
+  },
+  {
+    "symbol": "SCS",
+    "sector": "Cảng biển / logistics"
+  },
+  {
+    "symbol": "HPG",
+    "sector": "Thép / vật liệu"
+  },
+  {
+    "symbol": "HSG",
+    "sector": "Thép / vật liệu"
+  },
+  {
+    "symbol": "NKG",
+    "sector": "Thép / vật liệu"
+  },
+  {
+    "symbol": "VGS",
+    "sector": "Thép / vật liệu"
+  },
+  {
+    "symbol": "HT1",
+    "sector": "Thép / vật liệu"
+  },
+  {
+    "symbol": "BCC",
+    "sector": "Thép / vật liệu"
+  },
+  {
+    "symbol": "BMP",
+    "sector": "Thép / vật liệu"
+  },
+  {
+    "symbol": "CII",
+    "sector": "Hạ tầng / xây dựng"
+  },
+  {
+    "symbol": "HHV",
+    "sector": "Hạ tầng / xây dựng"
+  },
+  {
+    "symbol": "VCG",
+    "sector": "Hạ tầng / xây dựng"
+  },
+  {
+    "symbol": "FCN",
+    "sector": "Hạ tầng / xây dựng"
+  },
+  {
+    "symbol": "CTD",
+    "sector": "Hạ tầng / xây dựng"
+  },
+  {
+    "symbol": "HBC",
+    "sector": "Hạ tầng / xây dựng"
+  },
+  {
+    "symbol": "PC1",
+    "sector": "Hạ tầng / xây dựng"
+  },
+  {
+    "symbol": "POW",
+    "sector": "Điện / nước"
+  },
+  {
+    "symbol": "NT2",
+    "sector": "Điện / nước"
+  },
+  {
+    "symbol": "REE",
+    "sector": "Điện / nước"
+  },
+  {
+    "symbol": "GEG",
+    "sector": "Điện / nước"
+  },
+  {
+    "symbol": "QTP",
+    "sector": "Điện / nước"
+  },
+  {
+    "symbol": "BWE",
+    "sector": "Điện / nước"
+  },
+  {
+    "symbol": "TDM",
+    "sector": "Điện / nước"
+  },
+  {
+    "symbol": "DGC",
+    "sector": "Hóa chất / phân bón / cao su"
+  },
+  {
+    "symbol": "DPM",
+    "sector": "Hóa chất / phân bón / cao su"
+  },
+  {
+    "symbol": "DCM",
+    "sector": "Hóa chất / phân bón / cao su"
+  },
+  {
+    "symbol": "GVR",
+    "sector": "Hóa chất / phân bón / cao su"
+  },
+  {
+    "symbol": "PHR",
+    "sector": "Hóa chất / phân bón / cao su"
+  },
+  {
+    "symbol": "DHG",
+    "sector": "Dược / y tế"
+  },
+  {
+    "symbol": "IMP",
+    "sector": "Dược / y tế"
+  },
+  {
+    "symbol": "DBD",
+    "sector": "Dược / y tế"
+  },
+  {
+    "symbol": "HVN",
+    "sector": "Hàng không / du lịch"
+  },
+  {
+    "symbol": "VJC",
+    "sector": "Hàng không / du lịch"
+  },
+  {
+    "symbol": "VPL",
+    "sector": "Hàng không / du lịch"
+  }
+]

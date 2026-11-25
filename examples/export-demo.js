@@ -1,0 +1,1 @@
+import {writeFileSync,mkdirSync} from 'node:fs';import {demoSnapshot} from '../src/provider.js';mkdirSync('data',{recursive:true});writeFileSync('data/snapshot.demo.json',JSON.stringify(demoSnapshot()));console.log('data/snapshot.demo.json — SYNTHETIC ONLY');
